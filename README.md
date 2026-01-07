@@ -1,55 +1,75 @@
 # Hi, I'm Rohan Thakur 👋
 
-🚀 Junior Software Developer | Full-Stack Web Developer  
+🚀 Full-Stack Software Developer  
 📍 Jalandhar, Punjab, India
 
-I’m a passionate software developer with hands-on experience in building scalable, user-focused web applications using modern JavaScript frameworks. I enjoy turning complex problems into clean, maintainable solutions and continuously improving my technical skills.
+I’m a full-stack developer with experience working on **production systems across two remote teams**. I enjoy building scalable web applications, improving system performance, and working close to real-world engineering problems. I’m particularly interested in backend systems, async processing, and clean, maintainable architecture.
 
 ---
 
-## 💼 Current Role
-**Junior Software Developer** @ Weblianz Solutions (Remote)  
+## 💼 Experience
+
+### **Junior Software Developer (Full-Stack)** — Weblianz Solutions (Remote)  
 🗓️ Jun 2025 – Present
 
-- Develop and maintain scalable web applications using **React.js, Next.js, Node.js, and REST APIs**
-- Collaborate with cross-functional teams to deliver features, fix bugs, and improve code quality
-- Optimize application performance and build responsive, user-friendly interfaces
-- Contribute to client-facing projects with a focus on clean, testable, and well-documented code
+- Build and maintain scalable web applications using **Next.js, Node.js, MongoDB, and REST APIs**
+- Contribute to real user-facing features on **NestTalks**, a production community-based platform
+- Improved application performance by **~30%** through UI and backend optimizations
+- Collaborate with cross-functional teams to ship clean, testable, and maintainable code
+
+### **Software Developer** — IBACAC (Remote)  
+🗓️ Jun 2024 – May 2025
+
+- Resolved **20+ production issues** in core order and location modules, reducing support tickets by **~25%**
+- Built CI/CD pipelines using **GitHub Actions** for 4+ services
+- Designed a shopkeeper management system used by **50+ shopkeepers** to manage **3,000+ customer records**
+- Improved code scalability and reduced onboarding time for new developers
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**  
-`C` `C++` `JavaScript (ES6+)` `Java` `Python`
+`JavaScript (ES6+)` `Java` `Python` `C` `C++`
 
-**Frameworks & Libraries**  
-`React.js` `Next.js` `Node.js` `Redux` `Tailwind CSS` `Spring Boot` `LangChain`
+**Frontend**  
+`React.js` `Next.js` `Tailwind CSS` `Shadcn/UI`
+
+**Backend**  
+`Node.js` `Express.js` `REST APIs` `JWT Authentication` `Spring Boot`
 
 **Databases**  
-`MongoDB` `MySQL` `Supabase`
+`MongoDB` `MySQL` `PostgreSQL (Supabase)`
 
-**Tools & Concepts**  
-`Git` `GitHub` `Postman` `VS Code`  
-`REST APIs` `JWT Authentication` `OOPs` `Design Patterns`  
-`Data Structures & Algorithms` `Agile Development`
+**AI / RAG**  
+`LangChain` `Vector Databases` `Embeddings` `Prompt Engineering`
+
+**Infrastructure & Tools**  
+`Redis` `BullMQ` `Qdrant` `Docker` `Git` `GitHub` `Postman`
+
+**Core Concepts**  
+`Data Structures & Algorithms` `OOPS` `System Design Basics`  
+`Async Processing` `Background Workers`
 
 ---
 
 ## 📌 Featured Projects
 
-### 📄 DocsTalks — RAG-based PDF Assistant (2025)
+### 📄 **DocsTalks — RAG-based PDF Assistant** (2025)
 🔗 Live | GitHub  
-- Built a full-stack RAG application for uploading PDFs and asking contextual questions  
-- Implemented semantic search using **LangChain**, **Google Generative AI embeddings**, and **Qdrant**
-- Designed async PDF ingestion using **BullMQ** and **Redis** background workers
-- Integrated **Clerk authentication** and **MongoDB** for secure user isolation and chat history
+- Engineered a RAG system for querying PDFs using **LangChain** and **Google Generative AI**
+- Implemented async PDF ingestion using **BullMQ**, **Redis**, and **Qdrant**
+- Stored PDFs and chat history in **MongoDB** with background workers for processing
 
-### 🎌 Ani-List — Anime & Manga Discovery Platform (2024)
+### 🌐 **NestTalks — Community & City-based Social Platform** (2025)
+🔗 Live  
+- Contributed across frontend and backend using **Next.js, Node.js, and MongoDB**
+- Worked on post, feed, and community modules with API and performance improvements
+
+### 🎌 **Ani-List — Anime & Manga Discovery Platform** (2024)
 🔗 Live | GitHub  
-- Developed a search-driven anime/manga discovery platform with filters and user profiles
-- Implemented authentication and database operations using **Supabase**
-- Built reusable UI components using **Next.js**, **Tailwind CSS**, and **Shadcn UI**
+- Built a search-driven anime/manga discovery platform with filters and authentication
+- Implemented backend using **Supabase** for secure auth and database operations
 - Deployed on **Vercel** with smooth CI/CD updates
 
 ---
@@ -60,15 +80,20 @@ I’m a passionate software developer with hands-on experience in building scala
 DAV Institute of Engineering & Technology, Jalandhar  
 📅 Aug 2022 – Jun 2025  
 - CGPA: **7.52**
-- Relevant coursework: DSA, DBMS, Web Development, Software Engineering
-- Completed ReactJS Bootcamp with multiple full-stack projects
+- Coursework: DSA, DBMS, Web Development, Software Engineering
 
 ---
 
 ## 🏆 Achievements
-- 🥈 2nd Place — **GNA Hackathon 1.0 (2023)** (36-hour hackathon)
-- 🏅 Top 15 — **Pyramid Hackathon (2022)** (100+ teams)
-- 🥇 1st Place — **Inter-College Quiz Competition (2022)**
+- 🥈 **2nd Place** — Codefusion DSA Tournament
+- 🥈 **2nd Place** — GNA Hackathon 1.0 (36-hour hackathon)
+- 🥇 **1st Place** — Inter-College Quiz Competition
+
+---
+
+## 📄 Resume
+📌 **Resume:**  
+https://drive.google.com/file/d/16ONvQ4J5tgVn9LlDbo3obyedBZpowORG
 
 ---
 
