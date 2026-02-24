@@ -25,7 +25,7 @@ I enjoy building scalable web applications, improving performance, and solving r
 
 ---
 
-🔗 **Resume:** https://drive.google.com/file/d/16ONvQ4J5tgVn9LlDbo3obyedBZpowORG  
+🔗 **Resume:** https://drive.google.com/file/d/1eHVytEKFkPTLpBW_beE60rLbuJXuomNL
 🔗 **LinkedIn:** https://www.linkedin.com/in/rohan-thakur-a4167a244/  
 📧 **Email:** rsrohan787@gmail.com
 
